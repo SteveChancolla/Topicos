@@ -1,0 +1,211 @@
+﻿  Source.cpp
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\dag.h(23): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\dag.h(32): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\dag.h(39): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(16): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(30): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(31): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(52): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(68): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(69): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(94): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(98): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(121): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(138): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(139): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(152): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(171): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(175): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(195): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(204): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(211): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(229): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(234): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(246): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(266): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(271): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(283): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(301): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(306): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(321): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(339): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(344): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(359): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(379): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(384): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(412): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(434): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(439): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\probabilities.h(467): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(15): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(16): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(24): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(25): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(32): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(33): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(64): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(70): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(73): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(74): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(109): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(111): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(133): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(144): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(145): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(216): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(223): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(230): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(254): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(261): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(268): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(21): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(40): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(41): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(54): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(72): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(76): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(101): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(212): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(211): warning C4101: 'b': unreferenced local variable
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(229): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(236): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(241): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(254): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(256): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(288): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(299): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(306): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(316): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(318): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(343): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\qmeasure.h(349): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(40): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(45): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(60): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(67): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(72): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(85): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(102): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(115): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(121): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(128): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(134): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(155): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(159): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(164): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(170): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(176): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(182): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(189): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(196): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(203): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(210): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(251): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(280): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(288): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(296): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(303): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(241): warning C4101: 'w': unreferenced local variable
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(346): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(347): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(364): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(366): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(373): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(380): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(397): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(400): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(416): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(417): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(418): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(423): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(365): warning C4101: 'dca': unreferenced local variable
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(463): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(464): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(465): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(473): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(480): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(484): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\algorithms.h(511): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(48): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(51): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(58): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(67): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(73): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(75): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(103): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(117): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(124): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(146): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(158): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(169): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(187): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(203): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(213): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(231): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(244): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(254): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(256): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(257): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(272): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(280): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(290): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(292): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(295): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(296): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(309): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(318): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(328): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(329): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(333): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(334): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(347): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(360): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(370): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(372): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(373): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(389): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(396): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(399): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(400): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(409): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(411): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(428): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(429): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(436): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(466): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(474): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(475): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(480): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(481): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(490): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(493): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(512): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(513): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(517): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(518): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(551): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(560): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(561): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(566): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(567): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(576): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(578): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(596): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(597): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(602): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(603): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(636): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(646): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(649): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(650): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(659): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(662): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(681): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(684): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(685): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(730): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(756): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(803): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\source.cpp(804): warning C4018: '<': signed/unsigned mismatch
+d:\users\steve\documents\ciclo 9\topicos\tb3_stevechancolla\tb3_v2\tb3_v2\tools.h(105): warning C4715: 'Tools::ReadingData': not all control paths return a value
+  TB3_v2.vcxproj -> D:\Users\steve\Documents\Ciclo 9\Topicos\TB3_SteveChancolla\TB3_v2\Debug\TB3_v2.exe
